@@ -7,5 +7,6 @@ def get_date():
 def main():
     get_date()
 
+
 if __name__ == 'main':
     main()
