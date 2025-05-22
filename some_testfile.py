@@ -1,10 +1,11 @@
 import date
 
+
 def get_date():
-  print(date.datetime())
+    print(date.datetime())
 
 def main():
-  get_date()
+    get_date()
 
 if __name__ == 'main':
-  main()
+    main()
